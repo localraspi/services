@@ -2,4 +2,4 @@
 
 # Services
 
-Docker containers for the *Local Raspberry Pi* project.
+Docker services for the *Local Raspberry Pi* project.
